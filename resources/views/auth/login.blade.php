@@ -10,7 +10,7 @@ Login
 
 @section('content')
     <div class="home-btn d-none d-sm-block">
-        <a href="index" class="text-dark"><i class="fas fa-home h2"></i></a>
+        <a href="{{ route('front.home') }}" class="text-dark"><i class="fas fa-home h2"></i></a>
     </div>
     <div class="account-pages my-5 pt-5">
         <div class="container">
@@ -20,9 +20,9 @@ Login
                         <div class="bg-primary">
                             <div class="text-primary text-center p-4">
                                 <h5 class="text-white font-size-20">Welcome Back !</h5>
-                                <p class="text-white-50">Sign in to continue to Veltrix.</p>
+                                <p class="text-white-50">Sign in to continue to Referral Pal.</p>
                                 <a href="index" class="logo logo-admin">
-                                    <img src="assets/images/logo-sm.png" height="24" alt="logo">
+                                    <img src="{{ asset('assets/images/logo/logomain.webp') }}" height="24" alt="logo">
                                 </a>
                             </div>
                         </div>
@@ -33,7 +33,7 @@ Login
                                 @csrf
                                     <div class="form-group">
                                         <label for="username">Username</label>
-                                        <input name="email" type="email" class="form-control @error('email') is-invalid @enderror" @if(old('email')) value="{{ old('email') }}" @else value="admin@themesbrand.com" @endif  id="username" placeholder="Enter username" autocomplete="email" autofocus>
+                                        <input name="email" type="email" class="form-control @error('email') is-invalid @enderror" @if(old('email')) value="{{ old('email') }}" @else value="test@themesbrand.com" @endif  id="username" placeholder="Enter username" autocomplete="email" autofocus>
                                         @error('email')
                                             <span class="invalid-feedback" role="alert">
                                                 <strong>{{ $message }}</strong>
@@ -43,7 +43,7 @@ Login
 
                                     <div class="form-group">
                                         <label for="userpassword">Password</label>
-                                        <input type="password" name="password" class="form-control  @error('password') is-invalid @enderror" id="userpassword" value="12345678" placeholder="Enter password">
+                                        <input type="password" class="form-control  @error('password') is-invalid @enderror" id="userpassword" value="123456" placeholder="Enter password">
                                         @error('password')
                                             <span class="invalid-feedback" role="alert">
                                                 <strong>{{ $message }}</strong>
@@ -59,7 +59,7 @@ Login
                                             </div>
                                         </div>
                                         <div class="col-sm-6 text-right">
-                                            <button class="btn btn-primary w-md waves-effect waves-light" type="submit">Log In</button>
+                                            <button class="btn btn-primary w-md waves-effect waves-light" type="button">Log In</button>
                                         </div>
                                     </div>
 
@@ -75,8 +75,8 @@ Login
                     </div>
 
                     <div class="mt-5 text-center">
-                        <p>Don't have an account ? <a href="/register" class="font-weight-medium text-primary"> Signup now </a> </p>
-                        <p class="mb-0">© <script>document.write(new Date().getFullYear())</script> Veltrix. Crafted with <i class="mdi mdi-heart text-danger"></i> by Themesbrand</p>
+                        <p>Don't have an account ? <a href="pages-register" class="font-weight-medium text-primary"> Signup now </a> </p>
+                        <p class="mb-0">© <script>document.write(new Date().getFullYear())</script> Referral Pal. Crafted with <i class="mdi mdi-heart text-danger"></i> by Themesbrand</p>
                     </div>
 
                 </div>

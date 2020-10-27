@@ -8,7 +8,7 @@
                                 <div class="page-title-box">
                                     <h4 class="font-size-18">Progress Bars</h4>
                                     <ol class="breadcrumb mb-0">
-                                        <li class="breadcrumb-item"><a href="javascript: void(0);">Veltrix</a></li>
+                                        <li class="breadcrumb-item"><a href="javascript: void(0);">Referral Pal</a></li>
                                         <li class="breadcrumb-item"><a href="javascript: void(0);">UI Elements</a></li>
                                         <li class="breadcrumb-item active">Progress Bars</li>
                                     </ol>

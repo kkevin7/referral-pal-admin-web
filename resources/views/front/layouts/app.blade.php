@@ -66,7 +66,7 @@
                     </button>
 
                     <!--logo -->
-                    <a href="index.html" class="navbar-brand" id="logo">Referral Pal</a>
+                    <a href="{{ route('front.home') }}" class="navbar-brand" id="logo">Referral Pal</a>
 
                 </div>
 
@@ -78,7 +78,7 @@
 
                         <li><a href="#about">About</a></li>
 
-                        <li><a href="#team">Team</a></li>
+                        {{-- <li><a href="#team">Team</a></li> --}}
 
                         <li><a href="#gallery">Gallery</a></li>
 
@@ -86,13 +86,15 @@
 
                         <li><a href="#pricing">Pricing</a></li>
 
-                        <li><a href="#blog">Blog</a></li>
+                        {{-- <li><a href="#blog">Blog</a></li> --}}
 
                         <li><a href="#contact">Contact</a></li>
 
                         {{-- <li><a href="#download-app" class="external discover-btn">Get Started</a></li> --}}
 
                         <li><a href="{{ route('front.login') }}" class="external discover-btn">Login</a></li>
+
+                        <li><a href="{{ route('front.register') }}" class="external discover-btn">Register</a></li>
 
                     </ul>
                 </div>

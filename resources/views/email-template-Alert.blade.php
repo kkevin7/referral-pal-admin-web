@@ -7,7 +7,7 @@
                                 <div class="page-title-box">
                                     <h4 class="font-size-18">Alert Email</h4>
                                     <ol class="breadcrumb mb-0">
-                                        <li class="breadcrumb-item"><a href="javascript: void(0);">Veltrix</a></li>
+                                        <li class="breadcrumb-item"><a href="javascript: void(0);">Referral Pal</a></li>
                                         <li class="breadcrumb-item"><a href="javascript: void(0);">Email Templates</a></li>
                                         <li class="breadcrumb-item active">Alert Email</li>
                                     </ol>
@@ -68,19 +68,19 @@
                                                                 </tr>
                                                                 <tr style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;">
                                                                     <td class="content-block" style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; vertical-align: top; margin: 0; padding: 0 0 20px;" valign="top">
-                                                                        Thanks for choosing <b>Veltrix</b> Admin.
+                                                                        Thanks for choosing <b>Referral Pal</b> Admin.
                                                                     </td>
                                                                 </tr>
                                                                 <tr style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;">
                                                                     <td class="content-block" style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; vertical-align: top; margin: 0; padding: 0 0 20px;" valign="top">
-                                                                        <b>Veltrix</b>
+                                                                        <b>Referral Pal</b>
                                                                         <p>Support Team</p>
                                                                     </td>
                                                                 </tr>
         
                                                                 <tr style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;">
                                                                     <td class="content-block" style="text-align: center;font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; vertical-align: top; margin: 0; padding: 0;" valign="top">
-                                                                        © 2019 Veltrix
+                                                                        © 2019 Referral Pal
                                                                     </td>
                                                                 </tr>
                                                             </table>

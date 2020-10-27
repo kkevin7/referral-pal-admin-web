@@ -8,7 +8,7 @@
                                 <div class="page-title-box">
                                     <h4 class="font-size-18">Directory</h4>
                                     <ol class="breadcrumb mb-0">
-                                        <li class="breadcrumb-item"><a href="javascript: void(0);">Veltrix</a></li>
+                                        <li class="breadcrumb-item"><a href="javascript: void(0);">Referral Pal</a></li>
                                         <li class="breadcrumb-item"><a href="javascript: void(0);">Extra Pages</a></li>
                                         <li class="breadcrumb-item active">Directory</li>
                                     </ol>
@@ -43,7 +43,7 @@
                                             <div class="media-body ml-3">
                                                 <h5 class="text-primary font-size-18 mt-0 mb-1">Jerome A. Hebert</h5>
                                                 <p class="font-size-12 mb-2">Creative Director</p>
-                                                <p class="mb-0">Jerome@veltrix.com</p>
+                                                <p class="mb-0">Jerome@Referral Pal.com</p>
                                             </div>
                                             <ul class="list-unstyled social-links float-right">
                                                 <li><a href="#" class="btn-primary"><i class="mdi mdi-facebook"></i></a></li>
@@ -64,7 +64,7 @@
                                             <div class="media-body ml-3">
                                                 <h5 class="text-primary font-size-18 mt-0 mb-1">Adam V. Acker</h5>
                                                 <p class="font-size-12 mb-2">Creative Director</p>
-                                                <p class="mb-0">Adam@veltrix.com</p>
+                                                <p class="mb-0">Adam@Referral Pal.com</p>
                                             </div>
                                             <ul class="list-unstyled social-links float-right">
                                                 <li><a href="#" class="btn-primary"><i class="mdi mdi-facebook"></i></a></li>
@@ -86,7 +86,7 @@
                                             <div class="media-body ml-3">
                                                 <h5 class="text-primary font-size-18 mt-0 mb-1">Stanley M. Dyke</h5>
                                                 <p class="font-size-12 mb-2">Creative Director</p>
-                                                <p class="mb-0">Stanley@veltrix.com</p>
+                                                <p class="mb-0">Stanley@Referral Pal.com</p>
                                             </div>
                                             <ul class="list-unstyled social-links float-right">
                                                 <li><a href="#" class="btn-primary"><i class="mdi mdi-facebook"></i></a></li>
@@ -108,7 +108,7 @@
                                             <div class="media-body ml-3">
                                                 <h5 class="text-primary font-size-18 mt-0 mb-1">Ben J. Mathison</h5>
                                                 <p class="font-size-12 mb-2">Creative Director</p>
-                                                <p class="mb-0">Ben@veltrix.com</p>
+                                                <p class="mb-0">Ben@Referral Pal.com</p>
                                             </div>
                                             <ul class="list-unstyled social-links float-right">
                                                 <li><a href="#" class="btn-primary"><i class="mdi mdi-facebook"></i></a></li>
@@ -130,7 +130,7 @@
                                             <div class="media-body ml-3">
                                                 <h5 class="text-primary font-size-18 mt-0 mb-1">John V. Bailey</h5>
                                                 <p class="font-size-12 mb-2">Creative Director</p>
-                                                <p class="mb-0">John@veltrix.com</p>
+                                                <p class="mb-0">John@Referral Pal.com</p>
                                             </div>
                                             <ul class="list-unstyled social-links float-right">
                                                 <li><a href="#" class="btn-primary"><i class="mdi mdi-facebook"></i></a></li>
@@ -152,7 +152,7 @@
                                             <div class="media-body ml-3">
                                                 <h5 class="text-primary font-size-18 mt-0 mb-1">Antonio J. Thomas</h5>
                                                 <p class="font-size-12 mb-2">Creative Director</p>
-                                                <p class="mb-0">Antonio@veltrix.com</p>
+                                                <p class="mb-0">Antonio@Referral Pal.com</p>
                                             </div>
                                             <ul class="list-unstyled social-links float-right">
                                                 <li><a href="#" class="btn-primary"><i class="mdi mdi-facebook"></i></a></li>
@@ -174,7 +174,7 @@
                                             <div class="media-body ml-3">
                                                 <h5 class="text-primary font-size-18 mt-0 mb-1">Jerome A. Hebert</h5>
                                                 <p class="font-size-12 mb-2">Creative Director</p>
-                                                <p class="mb-0">Jerome@veltrix.com</p>
+                                                <p class="mb-0">Jerome@Referral Pal.com</p>
                                             </div>
                                             <ul class="list-unstyled social-links float-right">
                                                 <li><a href="#" class="btn-primary"><i class="mdi mdi-facebook"></i></a></li>
@@ -195,7 +195,7 @@
                                             <div class="media-body ml-3">
                                                 <h5 class="text-primary font-size-18 mt-0 mb-1">Adam V. Acker</h5>
                                                     <p class="font-size-12 mb-2">Creative Director</p>
-                                                    <p class="mb-0">Adam@veltrix.com</p>
+                                                    <p class="mb-0">Adam@Referral Pal.com</p>
                                             </div>
                                             <ul class="list-unstyled social-links float-right">
                                                 <li><a href="#" class="btn-primary"><i class="mdi mdi-facebook"></i></a></li>
@@ -218,7 +218,7 @@
                                             <div class="media-body ml-3">
                                                 <h5 class="text-primary font--size18 mt-0 mb-1">Stanley M. Dyke</h5>
                                                 <p class="font-size-12 mb-2">Creative Director</p>
-                                                <p class="mb-0">Stanley@veltrix.com</p>
+                                                <p class="mb-0">Stanley@Referral Pal.com</p>
                                             </div>
                                             <ul class="list-unstyled social-links float-right">
                                                 <li><a href="#" class="btn-primary"><i class="mdi mdi-facebook"></i></a></li>

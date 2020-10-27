@@ -52,7 +52,7 @@ lock Screen 2
 
                             <div class="mt-5 pt-4 text-center">
                                 <p>Not you ? return <a href="pages-login-2" class="font-weight-medium text-primary"> Sign In </a> </p>
-                                <p>© <script>document.write(new Date().getFullYear())</script> Veltrix. Crafted with <i class="mdi mdi-heart text-danger"></i> by Themesbrand</p>
+                                <p>© <script>document.write(new Date().getFullYear())</script> Referral Pal. Crafted with <i class="mdi mdi-heart text-danger"></i> by Themesbrand</p>
                             </div>
 
                         </div>

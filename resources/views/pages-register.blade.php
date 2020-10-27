@@ -21,7 +21,7 @@ Register
                             <div class="bg-primary">
                                 <div class="text-primary text-center p-4">
                                     <h5 class="text-white font-size-20">Free Register</h5>
-                                    <p class="text-white-50">Get your free Veltrix account now.</p>
+                                    <p class="text-white-50">Get your free Referral Pal account now.</p>
                                     <a href="index" class="logo logo-admin">
                                         <img src="assets/images/logo-sm.png" height="24" alt="logo">
                                     </a>
@@ -55,7 +55,7 @@ Register
     
                                         <div class="form-group mt-2 mb-0 row">
                                             <div class="col-12 mt-4">
-                                                <p class="mb-0">By registering you agree to the Veltrix <a href="#" class="text-primary">Terms of Use</a></p>
+                                                <p class="mb-0">By registering you agree to the Referral Pal <a href="#" class="text-primary">Terms of Use</a></p>
                                             </div>
                                         </div>
     
@@ -68,7 +68,7 @@ Register
     
                         <div class="mt-5 text-center">
                             <p>Already have an account ? <a href="pages-login" class="font-weight-medium text-primary"> Login </a> </p>
-                            <p>© <script>document.write(new Date().getFullYear())</script> Veltrix. Crafted with <i class="mdi mdi-heart text-danger"></i> by Themesbrand</p>
+                            <p>© <script>document.write(new Date().getFullYear())</script> Referral Pal. Crafted with <i class="mdi mdi-heart text-danger"></i> by Themesbrand</p>
                         </div>
     
     

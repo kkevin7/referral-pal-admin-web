@@ -18,7 +18,7 @@ Comming soon
                             <div class="col-lg-12">
                                 <div class="home-wrapper text-center">
                                     <img src="assets/images/logo-dark.png" alt="logo" height="30" />
-                                    <h3 class="mt-4">Let's get started with Veltrix</h3>
+                                    <h3 class="mt-4">Let's get started with Referral Pal</h3>
                                     <p class="mb-5">It will be as simple as Occidental in fact it will be Occidental.</p>
     
                                     <div class="row justify-content-center mt-5">

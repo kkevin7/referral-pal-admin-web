@@ -27,7 +27,7 @@ Login 2
                                 </div>
 
                                 <h4 class="font-size-18 mt-5 text-center">Welcome Back !</h4>
-                                <p class="text-muted text-center">Sign in to continue to Veltrix.</p>
+                                <p class="text-muted text-center">Sign in to continue to Referral Pal.</p>
 
                               <form class="mt-4" action="#">
 
@@ -64,7 +64,7 @@ Login 2
 
                             <div class="mt-5 pt-4 text-center">
                                 <p>Don't have an account ? <a href="pages-register-2" class="font-weight-medium text-primary"> Signup now </a> </p>
-                                <p>© <script>document.write(new Date().getFullYear())</script> Veltrix. Crafted with <i class="mdi mdi-heart text-danger"></i> by Themesbrand</p>
+                                <p>© <script>document.write(new Date().getFullYear())</script> Referral Pal. Crafted with <i class="mdi mdi-heart text-danger"></i> by Themesbrand</p>
                             </div>
 
                         </div>
