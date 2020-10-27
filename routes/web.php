@@ -12,10 +12,15 @@
 */
 
 Route::get('/', function () {
-    return redirect('/index');
+    return redirect('/front/home');
 });
 
 Auth::routes();
+
+Route::prefix('front')->group(function () {
+    Route::get('/home', 'Front\FrontController@index')->name("front.home");
+    Route::get('/login', 'Front\FrontController@login')->name("front.login");
+});
 
 Route::get('pages-login', 'VeltrixController@index');
 Route::get('pages-login-2', 'VeltrixController@index');
