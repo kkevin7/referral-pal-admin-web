@@ -63,7 +63,7 @@ Register 2
 
                             <div class="mt-5 pt-4 text-center">
                                 <p>Already have an account ? <a href="pages-login-2" class="font-weight-medium text-primary"> Login </a> </p>
-                                <p>© <script>document.write(new Date().getFullYear())</script> Referral Pal. Crafted with <i class="mdi mdi-heart text-danger"></i> by Themesbrand</p>
+                                <p class="mb-0">Copyrights © <script>document.write(new Date().getFullYear());</script> All Rights Reserved by <a href="https://makeitsimple.io/" class="font-weight-bold text-primary text-decoration-none">Make It Simple L.L.C</a></p>
                             </div>
 
                         </div>

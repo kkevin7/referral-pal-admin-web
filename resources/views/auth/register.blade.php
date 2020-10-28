@@ -75,7 +75,7 @@ Register
     
                                         <div class="form-group mt-2 mb-0 row">
                                             <div class="col-12 mt-4">
-                                                <p class="mb-0">By registering you agree to the Referral Pal <a href="#" class="text-primary">Terms of Use</a></p>
+                                                <p class="mb-0">By registering you agree to the Referral Pal <a  href="{{ route('front.termOfService') }}" target="_blank" class="text-primary">Terms of Service</a></p>
                                             </div>
                                         </div>
     
@@ -88,7 +88,7 @@ Register
     
                         <div class="mt-5 text-center">
                             <p>Already have an account ? <a href="/login" class="font-weight-medium text-primary"> Login </a> </p>
-                            <p>© <script>document.write(new Date().getFullYear())</script> Referral Pal. Crafted with <i class="mdi mdi-heart text-danger"></i> by Themesbrand</p>
+                            <p class="mb-0">Copyrights © <script>document.write(new Date().getFullYear());</script> All Rights Reserved by <a href="https://makeitsimple.io/" class="font-weight-bold text-primary text-decoration-none">Make It Simple L.L.C</a></p>
                         </div>
     
     

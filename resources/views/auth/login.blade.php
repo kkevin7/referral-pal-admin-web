@@ -33,7 +33,7 @@ Login
                                 @csrf
                                     <div class="form-group">
                                         <label for="username">Username</label>
-                                        <input name="email" type="email" class="form-control @error('email') is-invalid @enderror" @if(old('email')) value="{{ old('email') }}" @else value="test@themesbrand.com" @endif  id="username" placeholder="Enter username" autocomplete="email" autofocus>
+                                        <input name="email" type="email" class="form-control @error('email') is-invalid @enderror" @if(old('email')) value="{{ old('email') }}" @else value="admin@themesbrand.com" @endif  id="username" placeholder="Enter username" autocomplete="email" autofocus>
                                         @error('email')
                                             <span class="invalid-feedback" role="alert">
                                                 <strong>{{ $message }}</strong>
@@ -43,7 +43,7 @@ Login
 
                                     <div class="form-group">
                                         <label for="userpassword">Password</label>
-                                        <input type="password" class="form-control  @error('password') is-invalid @enderror" id="userpassword" value="123456" placeholder="Enter password">
+                                        <input type="password" name="password" class="form-control  @error('password') is-invalid @enderror" id="userpassword" value="12345678" placeholder="Enter password">
                                         @error('password')
                                             <span class="invalid-feedback" role="alert">
                                                 <strong>{{ $message }}</strong>
@@ -59,7 +59,7 @@ Login
                                             </div>
                                         </div>
                                         <div class="col-sm-6 text-right">
-                                            <button class="btn btn-primary w-md waves-effect waves-light" type="button">Log In</button>
+                                            <button class="btn btn-primary w-md waves-effect waves-light" type="submit">Log In</button>
                                         </div>
                                     </div>
 
@@ -68,6 +68,13 @@ Login
                                             <a href="pages-recoverpw"><i class="mdi mdi-lock"></i> Forgot your password?</a>
                                         </div>
                                     </div>
+
+                                    <div class="form-group mt-2 mb-0 row">
+                                        <div class="col-12 mt-4">
+                                            <p class="mb-0">Learn more about of <a href="{{ route('front.termOfService') }}" target="_blank" class="text-primary">Terms of Service</a></p>
+                                        </div>
+                                    </div>
+
                                 </form>
                             </div>
                         </div>
@@ -75,8 +82,8 @@ Login
                     </div>
 
                     <div class="mt-5 text-center">
-                        <p>Don't have an account ? <a href="pages-register" class="font-weight-medium text-primary"> Signup now </a> </p>
-                        <p class="mb-0">© <script>document.write(new Date().getFullYear())</script> Referral Pal. Crafted with <i class="mdi mdi-heart text-danger"></i> by Themesbrand</p>
+                        <p>Don't have an account ? <a href="/register" class="font-weight-medium text-primary"> Signup now </a> </p>
+                        <p class="mb-0">Copyrights © <script>document.write(new Date().getFullYear());</script> All Rights Reserved by <a href="https://makeitsimple.io/" class="font-weight-bold text-primary text-decoration-none">Make It Simple L.L.C</a></p>
                     </div>
 
                 </div>

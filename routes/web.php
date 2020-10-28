@@ -19,13 +19,13 @@ Auth::routes();
 
 Route::prefix('front')->group(function () {
     Route::get('/home', 'Front\FrontController@index')->name("front.home");
-    
 });
 
 Route::prefix('auth')->group(function () {
     // Auth Actions
     Route::get('/login', 'Front\FrontController@login')->name("front.login");
     Route::get('/register', 'Front\FrontController@register')->name("front.register");
+    Route::get('/termOfService', 'Front\FrontController@termOfService')->name("front.termOfService");
 });
 
 Route::get('pages-login', 'VeltrixController@index');

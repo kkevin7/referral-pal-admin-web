@@ -23,4 +23,9 @@ class FrontController extends Controller
         return view("auth.register");
     }
 
+    public function termOfService()
+    {
+        return view("front.termOfService");
+    }
+
 }

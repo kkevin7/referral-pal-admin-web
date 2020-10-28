@@ -1,6 +1,10 @@
 @extends('front.layouts.app')
 
+@section('title', 'Home')
+
 @section('content')
+
+@include('front.navigation.navbar')
 
     <!--begin home section -->
     <section class="home-section" id="home_wrapper">

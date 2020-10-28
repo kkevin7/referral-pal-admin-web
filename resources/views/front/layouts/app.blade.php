@@ -7,7 +7,7 @@
     <meta name="keywords" content="">
     <meta name="description" content="">
 
-    <title>Referral Pal</title>
+    <title>@yield('title') - Referral Pal</title>
 
     <!-- Loading Bootstrap -->
     <link href="{{ asset('assets/css/front/bootstrap.css') }}" rel="stylesheet">
@@ -46,143 +46,9 @@
 
 <body>
 
-    <!--begin header -->
-    <header class="header">
-
-        <!--begin nav -->
-        <nav class="navbar navbar-default navbar-fixed-top">
-
-            <!--begin container -->
-            <div class="container">
-
-                <!--begin navbar -->
-                <div class="navbar-header">
-
-                    <button data-target="#navbar-collapse-02" data-toggle="collapse" class="navbar-toggle" type="button">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-
-                    <!--logo -->
-                    <a href="{{ route('front.home') }}" class="navbar-brand" id="logo">Referral Pal</a>
-
-                </div>
-
-                <div id="navbar-collapse-02" class="collapse navbar-collapse">
-
-                    <ul class="nav navbar-nav navbar-right">
-
-                        <li><a href="#home_wrapper">Home</a></li>
-
-                        <li><a href="#about">About</a></li>
-
-                        {{-- <li><a href="#team">Team</a></li> --}}
-
-                        <li><a href="#gallery">Gallery</a></li>
-
-                        <li><a href="#features">Features</a></li>
-
-                        <li><a href="#pricing">Pricing</a></li>
-
-                        {{-- <li><a href="#blog">Blog</a></li> --}}
-
-                        <li><a href="#contact">Contact</a></li>
-
-                        {{-- <li><a href="#download-app" class="external discover-btn">Get Started</a></li> --}}
-
-                        <li><a href="{{ route('front.login') }}" class="external discover-btn">Login</a></li>
-
-                        <li><a href="{{ route('front.register') }}" class="external discover-btn">Register</a></li>
-
-                    </ul>
-                </div>
-                <!--end navbar -->
-
-            </div>
-            <!--end container -->
-
-        </nav>
-        <!--end nav -->
-
-    </header>
-    <!--end header -->
-
     @yield('content')
 
-    <!--begin footer -->
-    <div class="footer">
-
-        <!--begin container -->
-        <div class="container">
-
-            <!--begin row -->
-            <div class="row">
-
-                <!--begin col-md-12 -->
-                <div class="col-md-12 text-center">
-
-                    <p>
-                        Copyrights © <script>
-                            document.write(new Date().getFullYear());
-
-                        </script> All Rights Reserved by <a href="https://makeitsimple.io/" class="font-weight-bold text-primary text-decoration-none">Make It Simple L.L.C </a>
-                    </p>
-
-                    <!--begin footer_social -->
-                    <ul class="footer_social">
-
-                        <li>
-                            <a href="#">
-                                <i class="fa fa-twitter"></i>
-                            </a>
-                        </li>
-
-                        <li>
-                            <a href="#">
-                                <i class="fa fa-pinterest"></i>
-                            </a>
-                        </li>
-
-                        <li>
-                            <a href="#">
-                                <i class="fa fa-facebook"></i>
-                            </a>
-                        </li>
-
-                        <li>
-                            <a href="#">
-                                <i class="fa fa-instagram"></i>
-                            </a>
-                        </li>
-
-                        <li>
-                            <a href="#">
-                                <i class="fa fa-skype"></i>
-                            </a>
-                        </li>
-
-                        <li>
-                            <a href="#">
-                                <i class="fa fa-dribble"></i>
-                            </a>
-                        </li>
-
-                    </ul>
-                    <!--end footer_social -->
-
-                </div>
-                <!--end col-md-6 -->
-
-            </div>
-            <!--end row -->
-
-        </div>
-        <!--end container -->
-
-    </div>
-    <!--end footer -->
+    @include('front.footer.footer')
 
     <!-- Load JS here for greater good =============================-->
     <script src="{{ asset('assets/js/front/jquery-1.11.3.min.js') }}"></script>
