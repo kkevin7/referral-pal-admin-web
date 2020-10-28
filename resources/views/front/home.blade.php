@@ -162,11 +162,11 @@
                     <div class="features_item">
 
                         <div class="dropcaps_right">
-                            <span class="fa fa-laptop features_icons"></span>
+                            <span class="fa fa-comments features_icons"></span>
                         </div>
 
                         <div class="text_align_right">
-                            <h4>Responsive Layout</h4>
+                            <h4>FRIEND-TO-FRIEND REFERRALS THROUGH TEXT MESSAGING</h4>
                             <p>Quis autem velis etis netsum etims quis voluptate velit nihil est netsum et quam donecs netis de etsum nisle lorem.</p>
                         </div>
 
@@ -177,11 +177,11 @@
                     <div class="features_item">
 
                         <div class="dropcaps_right">
-                            <span class="fa fa-code features_icons"></span>
+                            <span class="fa fa-google-plus features_icons"></span>
                         </div>
 
                         <div class="text_align_right">
-                            <h4>Clean Code</h4>
+                            <h4>COLLECTING MORE GOOGLE REVIEWS</h4>
                             <p>Quis autem velis etis netsum etims quis voluptate velit nihil est netsum et quam donecs netis de etsum nisle lorem.</p>
                         </div>
 
@@ -196,7 +196,7 @@
                         </div>
 
                         <div class="text_align_right">
-                            <h4>Retina Ready</h4>
+                            <h4>SOCIAL MEDIA MARKETING</h4>
                             <p>Quis autem velis etis netsum etims quis voluptate velit nihil est netsum et quam donecs netis de etsum nisle lorem.</p>
                         </div>
 
@@ -221,11 +221,11 @@
                     <div class="features_item">
 
                         <div class="dropcaps_left">
-                            <span class="fa fa-leaf features_icons"></span>
+                            <span class="fa fa-id-badge features_icons"></span>
                         </div>
 
                         <div class="text_align_left">
-                            <h4>Modern Design</h4>
+                            <h4>BRANDING PHOTOS WITH YOUR COMPANY LOGO</h4>
                             <p>Quis autem velis etis netsum etims quis voluptate velit nihil est netsum et quam donecs netis de etsum nisle lorem.</p>
                         </div>
 
@@ -236,11 +236,11 @@
                     <div class="features_item">
 
                         <div class="dropcaps_left">
-                            <span class="fa fa-rocket features_icons"></span>
+                            <span class="fa fa-bar-chart features_icons"></span>
                         </div>
 
                         <div class="text_align_left">
-                            <h4>Premium Features</h4>
+                            <h4>KEEPING TRACK OF REVENUE + INCOMING REFERRALS WITH THE REFERRAL-PAL REFERRAL-TREE</h4>
                            <p>Quis autem velis etis netsum etims quis voluptate velit nihil est netsum et quam donecs netis de etsum nisle lorem.</p>
                         </div>
 
@@ -251,7 +251,7 @@
                     <div class="features_item">
 
                         <div class="dropcaps_left">
-                            <span class="fa fa-comments features_icons"></span>
+                            <span class="fa fa-envelope-o features_icons"></span>
                         </div>
 
                         <div class="text_align_left">
@@ -274,310 +274,6 @@
     </section>
     <!--end features -->
 
-    <!--begin video-wrapper -->
-    {{-- <section class="video-wrapper">
-
-        <div class="video-wrapper-overlay"></div>
-
-        <div class="shape-image-top"></div>
-
-        <!--begin container -->
-        <div class="container">
-
-            <!--begin row -->
-            <div class="row">
-
-                <!--begin col-md-12-->
-                <div class="col-md-12 text-center">
-
-                    <!--begin popup-gallery-->
-                    <div class="popup-gallery">
-                        <a class="popup4 video-icon" href="https://www.youtube.com/watch?v=FPfQMVf4vwQ"><i class="fa fa-play"></i></a>
-                    </div>
-                    <!--end popup-gallery-->
-
-                    <h3 class="video-title white">Watch Demo Video<br><span>Amazing Features, Unlimited Possibilities.</span></h3>
-
-                </div>
-                <!--end col-md-12-->
-
-            </div>
-            <!--end row -->
-
-        </div>
-        <!--end container -->
-
-    </section> --}}
-    <!--end video-wrapper -->
-
-    <!--begin faq section -->
-    <section class="section-white small-padding-bottom">
-
-        <!--begin container-->
-        <div class="container">
-
-            <!--begin row-->
-            <div class="row">
-
-                <!--begin col-md-6-->
-                <div class="col-md-6 margin-top-10">
-
-                    <img src="http://placehold.it/555x421" alt="picture" class="width-100">
-
-                </div>
-                <!--end col-sm-6-->
-
-                <!--begin col-md-6-->
-                <div class="col-md-6 margin-top-10">
-
-                    <h3>Frequently Asked Questions</h3>
-
-                    <!--begin panel-group -->
-                    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-
-                        <!--begin panel-default -->
-                        <div class="panel panel-default">
-
-                            <div class="panel-heading" role="tab" id="headingOne">
-
-                                <h4 class="panel-title">
-
-                                    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                      <i class="icon icon-rocket panel-icon"></i> What's the difference between organic vs. paid results?
-                                    </a>
-
-                                </h4>
-
-                            </div>
-
-                            <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-
-                                <div class="panel-body">
-                                    <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur netsum loris fugit, sed quia magni dolores eos qui ratione sequi nesciunt, neque et quis autem velis reprehenderit ets quis velit.</p>
-                                </div>
-
-                            </div>
-
-                        </div>
-                        <!--end panel-default -->
-
-                        <!--begin panel-default -->
-                        <div class="panel panel-default">
-
-                            <div class="panel-heading" role="tab" id="headingTwo">
-
-                                <h4 class="panel-title">
-
-                                    <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                      <i class="icon icon-prize-award panel-icon"></i> Should I optimize my domain name to include keywords?
-                                    </a>
-
-                                </h4>
-
-                            </div>
-
-                            <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-
-                                <div class="panel-body">
-                                    <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur netsum loris fugit, sed quia magni dolores eos qui ratione sequi nesciunt, neque et quis autem velis reprehenderit ets quis velit.</p>
-                                </div>
-
-                            </div>
-
-                        </div>
-                        <!--end panel-default -->
-
-                        <!--begin panel-default -->
-                        <div class="panel panel-default">
-
-                            <div class="panel-heading" role="tab" id="headingThree">
-
-                                <h4 class="panel-title">
-
-                                    <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                      <i class="icon icon-present-gift panel-icon"></i> What is the difference between indexed and crawling?
-                                    </a>
-
-                                </h4>
-
-                            </div>
-
-                            <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
-
-                                <div class="panel-body">
-                                    <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur netsum loris fugit, sed quia magni dolores eos qui ratione sequi nesciunt, neque et quis autem velis reprehenderit ets quis velit.</p>
-                                </div>
-
-                            </div>
-
-                        </div>
-                        <!--end panel-default -->
-
-                        <!--begin panel-default -->
-                        <div class="panel panel-default">
-
-                            <div class="panel-heading" role="tab" id="headingFour">
-
-                                <h4 class="panel-title">
-
-                                    <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                      <i class="icon icon-present-gift panel-icon"></i> What is the difference between indexed and crawling?
-                                    </a>
-
-                                </h4>
-
-                            </div>
-
-                            <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
-
-                                <div class="panel-body">
-                                    <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur netsum loris fugit, sed quia magni dolores eos qui ratione sequi nesciunt, neque et quis autem velis reprehenderit ets quis velit.</p>
-                                </div>
-
-                            </div>
-
-                        </div>
-                        <!--end panel-default -->
-
-                    </div>
-                    <!--end panel-group -->
-
-                </div>
-                <!--end col-sm-6-->
-
-            </div>
-            <!--end row-->
-
-        </div>
-        <!--end container-->
-
-    </section>
-    <!--end faq section -->
-
-    <!--begin team section -->
-    {{-- <section class="top-shape-wrapper">
-
-        <!--begin top-shape section -->
-        <div class="top-shape" id="team">
-
-            <!--begin container-->
-            <div class="container">
-
-                <!--begin row-->
-                <div class="row">
-
-                    <!--begin col-md-12 -->
-                    <div class="col-md-12 text-center">
-
-                        <h2 class="section-title">The Team Behind Referral Pal</h2>
-
-                        <p class="section-subtitle">There are many variations of passages of Lorem Ipsum available, but the majority<br>have suffered alteration, by injected humour, or new randomised words.</p>
-
-                    </div>
-                    <!--end col-md-12 -->
-
-                    <!--begin team-item -->
-                    <div class="col-sm-12 col-md-4">
-
-                        <div class="team-item">
-
-                            <img src="http://placehold.it/200x200" class="team-img" alt="pic">
-
-                            <h3>JOHNATHAN HAWKINS</h3>
-
-                            <div class="team-info"><p>Head of SEO</p></div>
-
-                            <p>Johnathan is our  co-founder and has developed search strategies for a variety of clients for over 5 years.</p>
-
-                            <ul class="team-icon">
-
-                                <li><a href="#" class="twitter"><i class="fa fa-twitter"></i></a></li>
-
-                                <li><a href="#" class="pinterest"><i class="fa fa-pinterest"></i></a></li>
-
-                                <li><a href="#" class="facebook"><i class="fa fa-facebook"></i></a></li>
-
-                                <li><a href="#" class="dribble"><i class="fa fa-dribbble"></i></a></li>
-
-                            </ul>
-
-                        </div>
-
-                    </div>
-                    <!--end team-item -->
-
-                    <!--begin team-item -->
-                    <div class="col-sm-12 col-md-4">
-
-                        <div class="team-item">
-
-                            <img src="http://placehold.it/200x200" class="team-img" alt="pic">
-
-                            <h3>ALEXANDRA SMITHS</h3>
-
-                            <div class="team-info"><p>SEO Specialist</p></div>
-
-                            <p>Graduating with a degree in Spanish, English and French, Alexandra has always loved writing.</p>
-
-                            <ul class="team-icon">
-
-                                <li><a href="#" class="twitter"><i class="fa fa-twitter"></i></a></li>
-
-                                <li><a href="#" class="pinterest"><i class="fa fa-pinterest"></i></a></li>
-
-                                <li><a href="#" class="facebook"><i class="fa fa-facebook"></i></a></li>
-
-                                <li><a href="#" class="dribble"><i class="fa fa-dribbble"></i></a></li>
-
-                            </ul>
-
-                        </div>
-
-                    </div>
-                    <!--end team-item -->
-
-                    <!--begin team-item -->
-                    <div class="col-sm-12 col-md-4">
-
-                        <div class="team-item">
-
-                            <img src="http://placehold.it/200x200" class="team-img" alt="pic">
-
-                            <h3>ANDRES JOHANSON</h3>
-
-                            <div class="team-info"><p>Marketing Manager</p></div>
-
-                            <p>Andres fell in love with marketing at the university and looks forward to being part of this industry for many years.</p>
-
-                            <ul class="team-icon">
-
-                                <li><a href="#" class="twitter"><i class="fa fa-twitter"></i></a></li>
-
-                                <li><a href="#" class="pinterest"><i class="fa fa-pinterest"></i></a></li>
-
-                                <li><a href="#" class="facebook"><i class="fa fa-facebook"></i></a></li>
-
-                                <li><a href="#" class="dribble"><i class="fa fa-dribbble"></i></a></li>
-
-                            </ul>
-
-                        </div>
-
-                    </div>
-                    <!--end team-item -->
-
-                </div>
-                <!--end row-->
-
-            </div>
-            <!--end container-->
-
-        </div>
-        <!--end top-shape section -->
-
-    </section> --}}
-    <!--end team section -->
-
     <!--begin gallery section -->
     <section class="section-lyla" id="gallery">
 
@@ -590,7 +286,7 @@
                 <!--begin col md 12 -->
                 <div class="col-md-12 text-center">
 
-                    <h2 class="section-title white">Explore Latest Projects</h2>
+                    <h2 class="section-title white">Explore More About Our Application</h2>
 
                     <p class="section-subtitle white">There are many variations of passages of Lorem Ipsum available, but the majority<br>have suffered alteration, by injected humour, or new randomised words.</p>
 
@@ -646,42 +342,6 @@
 
     </section>
     <!--end gallery section -->
-
-    <!--begin partners section -->
-    {{-- <section class="section-grey partners-paddings">
-
-        <div class="container">
-
-            <div class="row">
-
-                <div class="col-md-3">
-                    <h4 class="our-partners-title">Our Amazing Partners<br><span>We’ve built apps featured on:</span></h4>
-                </div>
-
-                <div class="col-md-9">
-
-                    <!--begin partners-mentions -->
-                    <ul class="partners-mentions">
-
-                        <li><img src="{{ asset('assets/images/front/award4a.png') }}" alt="CSS Awards"></li>
-
-                        <li><img src="{{ asset('assets/images/front/award1a.png') }}" alt="Awwwards"></li>
-
-                        <li><img src="{{ asset('assets/images/front/award5.png') }}" alt="CSS Winner"></li>
-
-                        <li><img src="{{ asset('assets/images/front/award3a.png') }}" alt="CSS Design Awards"></li>
-
-                    </ul>
-                    <!--end partners-mentions -->
-
-                </div>
-
-            </div>
-
-        </div>
-
-    </section> --}}
-    <!--end partners section -->
 
     <!--begin services section -->
     <section class="section-white small-padding-bottom" id="features">
@@ -1589,11 +1249,11 @@
 
                     <h5>Head Office</h5>
 
-                    <p class="contact-info"><i class="fa fa-map-o"></i> 10 Oxford Street, London, UK, E1 1EC</p>
+                    <p class="contact-info"><i class="fa fa-map-o"></i> Mapleton, Utah 84664</p>
 
-                    <p class="contact-info"><i class="fa fa-envelope-o"></i> <a href="mailto:contact@email.com">office@amazing-apps.co.uk</a></p>
+                    <p class="contact-info"><i class="fa fa-envelope-o"></i> <a href="mailto:contact@email.com">support@referral-pal.com</a></p>
 
-                    <p class="contact-info"><i class="fa fa-phone"></i> +44 987 654 321</p>
+                    <p class="contact-info"><i class="fa fa-phone"></i> 479-216-3642</p>
 
                 </div>
                 <!--end col-md-6 -->
