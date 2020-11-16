@@ -112,7 +112,7 @@ $(".select2").select2();
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\laragon\www\referal-admin-web\resources\js\pages\ecommerce-select2.init.js */"./resources/js/pages/ecommerce-select2.init.js");
+module.exports = __webpack_require__(/*! C:\laragon\www\referral-pal-admin-web\resources\js\pages\ecommerce-select2.init.js */"./resources/js/pages/ecommerce-select2.init.js");
 
 
 /***/ })

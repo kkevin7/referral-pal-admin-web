@@ -24,8 +24,8 @@
         "vue-template-compiler": "^2.6.10"
     },
     "dependencies": {
-        "admin-resources": "git+https://github.com/themesbrand/admin-resources#master",
         "@curiosityx/bootstrap-session-timeout": "^1.0.0",
+        "admin-resources": "git+https://github.com/themesbrand/admin-resources#master",
         "bootstrap-colorpicker": "^3.1.2",
         "bootstrap-datepicker": "^1.9.0",
         "bootstrap-editable": "^1.0.1",

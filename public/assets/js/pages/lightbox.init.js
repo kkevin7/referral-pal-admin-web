@@ -242,7 +242,7 @@ File: Lightbox  Js File
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\laragon\www\referal-admin-web\resources\js\pages\lightbox.init.js */"./resources/js/pages/lightbox.init.js");
+module.exports = __webpack_require__(/*! C:\laragon\www\referral-pal-admin-web\resources\js\pages\lightbox.init.js */"./resources/js/pages/lightbox.init.js");
 
 
 /***/ })

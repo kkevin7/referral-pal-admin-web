@@ -117,7 +117,7 @@ $(function () {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\laragon\www\referal-admin-web\resources\js\pages\form-wizard.init.js */"./resources/js/pages/form-wizard.init.js");
+module.exports = __webpack_require__(/*! C:\laragon\www\referral-pal-admin-web\resources\js\pages\form-wizard.init.js */"./resources/js/pages/form-wizard.init.js");
 
 
 /***/ })
